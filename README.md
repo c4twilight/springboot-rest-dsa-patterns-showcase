@@ -1,4 +1,4 @@
-# Spring Boot Production Showcase
+# Spring Boot REST + DSA + Patterns Showcase
 
 A production-style Spring Boot project that demonstrates three core areas:
 - REST API design and testing (COVID stats module)

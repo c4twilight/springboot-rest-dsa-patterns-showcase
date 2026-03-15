@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>springboot-production-showcase</artifactId>
+	<artifactId>springboot-rest-dsa-patterns-showcase</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springboot-production-showcase</name>
+	<name>springboot-rest-dsa-patterns-showcase</name>
 	<description>Production-ready Spring Boot showcase with REST, DSA, and design pattern modules</description>
 	<url/>
 	<licenses>
